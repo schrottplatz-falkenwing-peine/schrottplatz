@@ -102,13 +102,13 @@ schrottplatz/
 ## Current Results (as of 26.02.2026)
 
 ### Collection Progress
-- **Analyzed Artists**: 80/350 (~22.9%)
-- **Complete Profiles**: 80 artists
-- **Bot Suspect Cases**: 4 artists (5.0%)
+- **Analyzed Artists**: 90/350 (~25.7%)
+- **Complete Profiles**: 90 artists
+- **Bot Suspect Cases**: 4 artists (4.4%)
 - **Genre Diversity**: German Rap/Trap, Indie/Electro-Pop, Experimental
 
 ### Completed Artists (Alphabetical)
-$aro, ?EV, 0nlinefrndz Archieve, 249icey, 2busy4time, 2late, 2late4hugs, 52Blue, 7ventus, absent, aidan, albedo, ALeiz, Aliena., altr, Anton Hietanen, anzai, AP$, aqstrakt, Armando, Arrow, Artan67, avia, Beneath040, Benten2030, Benzo Bailey, Big Boy Playin, Big Joe, Broll3, CLean, Chris de Burgh, Cheekyteo, croown, EJames, FYO, GAZI, Grayfox, Gruber, Greas, Isaac Alpough, ivan hill, jfreeza, Ken Xysti, Kid Pullen, kidrainy, kxgn, Lewi Astro, Mirage, Mobezzy, Never Sober, nIEMAND, Pandora's Vox, Phenex, plainblaine, Raw Roach, Rise Over Me, rookie??, Ros, Seb Cordero, SIYA, Silas, SlightlyOverrated, Slatty, SliN, SLYH, Squidy, staxy, Steyzz, Susboygenio, t0a5t, TOCKAA, Trinve, trustohm, Whens V, wilson100k, WOOZY, YAGI, Yatsu, Yite, Yung OS, Yung Shadow, Yungbro
+$aro, ?EV, 0nlinefrndz Archieve, 249icey, 2busy4time, 2late, 2late4hugs, 52Blue, 7ventus, absent, aidan, albedo, ALeiz, Aliena., altr, anakinbaby, Anton Hietanen, anzai, AP$, aqstrakt, Armando, Arrow, Artan67, avia, Beneath040, Benten2030, Benzo Bailey, Big Boy Playin, Big Joe, Broll3, cazyy, CLean, Chris de Burgh, Cheekyteo, Constii, croown, CXDEX, EJames, Elijah249, FYO, GAZI, Grayfox, Gruber, Greas, Isaac Alpough, ivan hill, jeremyy, JShiny, jfreeza, Ken Xysti, Kid Pullen, kidrainy, kxgn, Lewi Astro, lued, Mirage, Mobezzy, Navy, Never Sober, nIEMAND, nightfvry, Pandora's Vox, Phenex, plainblaine, Raw Roach, Rise Over Me, rookie??, Ros, Seb Cordero, SIYA, Silas, SlightlyOverrated, Slatty, SliN, SLYH, Squidy, staxy, Steyzz, Susboygenio, t0a5t, TOCKAA, Trinve, trustohm, Whens V, wilson100k, WOOZY, YAGI, Yatsu, Yite, Yung OS, Yung Shadow, Yungbro
 
 ### Top Discoveries
 
@@ -117,29 +117,35 @@ $aro, ?EV, 0nlinefrndz Archieve, 249icey, 2busy4time, 2late, 2late4hugs, 52Blue,
 - **Raw Roach**: Active collaborator network
 - **Benzo Bailey**: Cross-genre connections
 - **wilson100k & Mobezzy**: Exclusive partnership duo
+- **CXDEX**: Central experimental network hub
+- **nightfvry**: Underground hub with 8+ radio connections
 
 #### Thematic Super-Clusters
 1. **Experimental German Rap**: ALeiz, aqstrakt, altr, anzai
 2. **International Underground**: $aro, Raw Roach, staxy, SliN
-3. **Indie/Alternative**: Anton Hietanen, Chris de Burgh, Pandora's Vox
+3. **Indie/Electro-Pop**: lued, Constii, EtN, Manic
 4. **German Trap**: Big Boy Playin, GAZI, Grayfox, Gruber
 5. **Wiener Trap Scene**: Greas, SIYA, Cheekyteo, CXDEX (connections)
 6. **Teenage Trap Duo**: wilson100k & Mobezzy (exclusive partnership)
+7. **Star Wars Trap**: anakinbaby, saimuzz, croown, CXDEX
+8. **Astronomical Trap**: JShiny, CXDEX, vaay, Felo
+9. **Gaming-Drug Trap**: esca, CXDEX, JShiny, sicktrapboy
 
 #### Manipulation Indicators
 - **Extreme Bot**: $aro (1:1176 Plays-to-Listeners ratio)
 - **Light Bot**: aqstrakt, albedo, ALeiz (suspicious ratios)
-- **Authentic**: 70 artists (94.6%)
+- **Authentic**: 86 artists (95.6%)
 
 ### Notable Statistics
 - **Highest Monthly Listeners**: wilson100k (12,969)
 - **Second Highest**: Mobezzy (9,911)
 - **Third Highest**: Slatty (6,388)
-- **Most Active Collaborators**: Raw Roach, staxy
+- **Most Active Collaborators**: Raw Roach, staxy, CXDEX
 - **Most Prolific**: ALeiz (complex album titles)
 - **Exclusive Partnership**: wilson100k & Mobezzy (all tracks together)
 - **Regional Hub**: Wiener Trap Scene (Greas, SIYA, Cheekyteo)
-- **Genre Diversity**: 15+ distinct genres identified
+- **Genre Diversity**: 20+ distinct genres identified
+- **Network Density**: High connectivity between clusters
 
 ## Financial Analysis
 
@@ -167,7 +173,7 @@ $aro, ?EV, 0nlinefrndz Archieve, 249icey, 2busy4time, 2late, 2late4hugs, 52Blue,
 
 ## Next Steps
 
-1. **Continue Collection**: Systematic analysis of remaining 270 artists
+1. **Continue Collection**: Systematic analysis of remaining 260 artists
 2. **Network Visualization**: Creation of relationship diagrams
 3. **Deep Analysis**: Detailed examination of cluster patterns
 4. **Financial Modeling**: Complete revenue analysis with full data
@@ -187,6 +193,6 @@ This project serves research and analysis of music networks. All data is taken f
 ---
 
 **Project Status**: 🔄 Active collection ongoing
-**Last Update**: 26.02.2026 06:40
+**Last Update**: 26.02.2026 07:45
 **Next Milestone**: 100 artists fully analyzed
-**Progress**: 80/350 artists completed (22.9%)
+**Progress**: 90/350 artists completed (25.7%)
