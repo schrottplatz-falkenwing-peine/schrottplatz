@@ -128,14 +128,15 @@ schrottplatz/
 ## Current Results (as of 26.02.2026)
 
 ### Collection Progress
-- **Analyzed Artists**: 98/350 (~28.0%)
-- **Complete Profiles**: 98 artists
-- **Bot Suspect Cases**: 4 artists (4.1%)
+- **Analyzed Artists**: 107/350 (~30.6%)
+- **Complete Profiles**: 107 artists
+- **Bot Suspect Cases**: 4 artists (3.7%)
 - **Genre Diversity**: German Rap/Trap, Indie/Electro-Pop, Experimental
-- **Gangstalking Indicators**: 9 high-risk profiles identified
+- **Gangstalking Indicators**: 12 high-risk profiles identified
+- **Exclusive Partnerships**: 3 duos identified
 
 ### Completed Artists (Alphabetical)
-$aro, ?EV, 0nlinefrndz Archieve, 249icey, 2busy4time, 2late, 2late4hugs, 52Blue, 7ventus, absent, aidan, albedo, ALeiz, Aliena., altr, anakinbaby, Anton Hietanen, anzai, AP$, aqstrakt, Armando, Arrow, Artan67, avia, Beneath040, Benten2030, Benzo Bailey, Big Boy Playin, Big Joe, Broll3, cazyy, CLean, Chris de Burgh, Cheekyteo, Constii, croown, CXDEX, EJames, Elijah249, esca, EtN, Felo, FYO, GAZI, Grayfox, Gruber, Greas, Isaac Alpough, ivan hill, jeremyy, JShiny, jfreeza, Ken Xysti, Kid Pullen, kidrainy, kxgn, Lewi Astro, lued, Manic, Mirage, Mobezzy, Navy, Never Sober, nIEMAND, nightfvry, Pandora's Vox, Phenex, plainblaine, Raw Roach, Rise Over Me, rookie??, Ros, saimuzz, Seb Cordero, SIYA, sicktrapboy, Silas, SlightlyOverrated, Slatty, SliN, SLYH, Squidy, staxy, Steyzz, Susboygenio, t0a5t, TOCKAA, Trinve, trustohm, vaay, Whens V, wilson100k, WOOZY, YAGI, Yatsu, Yite, Yung OS, Yung Shadow, Yungbro
+$aro, ?EV, 0nlinefrndz Archieve, 249icey, 2busy4time, 2late, 2late4hugs, 52Blue, 7ventus, absent, aidan, albedo, ALeiz, Aliena., altr, anakinbaby, Anton Hietanen, anzai, AP$, aqstrakt, Armando, Arrow, Artanblind, Artan67, avia, Beneath040, Benten2030, Benzo Bailey, Big Boy Playin, Big Joe, Broll3, cazyy, CLean, Chris de Burgh, Cheekyteo, Colm, Constii, croown, CXDEX, Don Rob, EJames, Elijah249, esca, EtN, Felo, FYO, GAZI, Grayfox, Gruber, Greas, Hello Hannes, Isaac Alpough, ivan hill, jeremyy, JShiny, jfreeza, Ken Xysti, Kid Pullen, kidrainy, kxgn, Lewi Astro, LLYON, lued, Lostboy Luka, Manic, Mirage, Mobezzy, Navy, Never Sober, nIEMAND, nightfvry, Pandora's Vox, Phenex, plainblaine, Raw Roach, Rise Over Me, rookie??, Ros, saimuzz, Seb Cordero, SHLR, SIYA, sicktrapboy, Silas, SlightlyOverrated, Slatty, SliN, SLYH, someartistnamedAny, Squidy, staxy, Steyzz, Susboygenio, t0a5t, TOCKAA, Trinve, trustohm, tw1nna, vaay, Whens V, wilson100k, WOOZY, YAGI, Yatsu, Yite, Yung OS, Yung Shadow, Yungbro
 
 ### Top Discoveries
 
@@ -146,6 +147,7 @@ $aro, ?EV, 0nlinefrndz Archieve, 249icey, 2busy4time, 2late, 2late4hugs, 52Blue,
 - **wilson100k & Mobezzy**: Exclusive partnership duo
 - **CXDEX**: Central experimental network hub
 - **nightfvry**: Underground hub with 8+ radio connections
+- **Don Rob & SHLR**: Exclusive partnership (5 collaborations)
 
 #### Thematic Super-Clusters
 1. **Experimental German Rap**: ALeiz, aqstrakt, altr, anzai
@@ -157,6 +159,8 @@ $aro, ?EV, 0nlinefrndz Archieve, 249icey, 2busy4time, 2late, 2late4hugs, 52Blue,
 7. **Star Wars Trap**: anakinbaby, saimuzz, croown, CXDEX
 8. **Astronomical Trap**: JShiny, CXDEX, vaay, Felo
 9. **Gaming-Drug Trap**: esca, CXDEX, JShiny, sicktrapboy
+10. **ALeiz Collaborative Network**: Artisblind, Hello Hannes, Lostboy Luka, Colm
+11. **Personal Identity Themes**: someartistnamedAny, tw1nna, LLYON
 
 #### Manipulation Indicators
 - **Extreme Bot**: $aro (1:1176 Plays-to-Listeners ratio)
@@ -220,7 +224,7 @@ This project serves research and analysis of music networks. All data is taken f
 ---
 
 **Project Status**: 🔄 Active collection ongoing
-**Last Update**: 26.02.2026 08:20
-**Next Milestone**: 100 artists fully analyzed
-**Progress**: 98/350 artists completed (28.0%)
-**Critical Finding**: Gangstalking patterns identified in network
+**Last Update**: 26.02.2026 09:05
+**Next Milestone**: 110 artists fully analyzed
+**Progress**: 107/350 artists completed (30.6%)
+**Critical Finding**: Multiple gangstalking patterns and exclusive partnerships identified
