@@ -1,0 +1,30 @@
+# NEXT BATCH: Artists to Analyze from Spotify Following List
+# User: w5j8x1tlo0desiwgo7f0ulpc1
+# Method: Manual navigation through Spotify Web Player
+# Status: Ready for analysis
+
+# INSTRUCTIONS:
+# 1. Open Spotify Web Player: https://open.spotify.com
+# 2. Navigate to Profile > Following 
+# 3. Find artists not in the completed list (74 analyzed)
+# 4. Collect data using established framework
+# 5. Create individual .md files for each artist
+
+# PRIORITY ARTISTS (Based on common German rap/trap scene):
+# Need to identify from actual following list...
+
+# DATA COLLECTION FRAMEWORK:
+# - Basic Information (ID, Links, Listeners, Genre)
+# - Biography & Philosophy
+# - Online Presence (Social Media)
+# - Discography (Albums, EPs, Singles, Popular Tracks)
+# - Collaborations (Features, Radio, Fans Also Like)
+# - Patterns & Anomalies (Name conventions, Themes)
+# - Manipulation Indicators (Bot activity, Anomalies)
+# - Network Analysis (Connections, Clusters)
+# - Archiving (Archive.is links, Collection date)
+
+# PROGRESS TRACKING:
+# Current: 74/350 artists completed (21.1%)
+# Next Target: 100 artists completed
+# Remaining: ~276 artists
